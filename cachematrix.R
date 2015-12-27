@@ -22,7 +22,7 @@ set <- function(y){
 setinv <- function(inverse){
   inv <<- inverse
   }
-##function the value of inverse as given in the argument of the function call
+##function for the value of inverse as given in the argument of the function call
 
 getinv <-function(){
   return(inv)
